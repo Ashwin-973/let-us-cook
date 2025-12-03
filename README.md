@@ -1,2 +1,1 @@
-HTML only project
-uses pure Semantic HTML
+HTML only projec that uses pure Semantic HTML
